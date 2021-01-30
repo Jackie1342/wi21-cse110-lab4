@@ -30,21 +30,21 @@
     D. student['Favorite Teacher'].name  
     E. student.courseLoad[0]
 
-14. A. 32 Because 2 is convert to a string value  
-    B. 1 When doing subtructiom, '3' is converted to a number value  
-    C. 3 null is converted to number value, which is 0  
-    D. 3null null is converted to a string value and appended to '3'  
-    E. 4 true is converted to number value, which is 1  
-    F. 0 Both false and null are converted to number value. false is 0 and null is 0  
-    G. 3undefined undefined is converted to a string value and appended to "3"  
-    H. NaN undefined is converted to number value, which is NaN  
+14. A. **32** Because 2 is convert to a string value  
+    B. **1** When doing subtructiom, '3' is converted to a number value  
+    C. **3** null is converted to number value, which is 0  
+    D. **3null** null is converted to a string value and appended to '3'  
+    E. **4** true is converted to number value, which is 1  
+    F. **0** Both false and null are converted to number value. false is 0 and null is 0  
+    G. **3undefined** undefined is converted to a string value and appended to "3"  
+    H. **NaN** undefined is converted to number value, which is NaN  
 
-15. A. true '2' is converted to number 2  
-    B. false This is a comparison between two strings. Since "2">"1", this experession returns false  
-    C. true '2' is converted to number 2  
-    D. false because 2 and '2' have different types  
-    E. false true is converted to number as 1  
-    D. true Boolean(2) after the convertion is true  
+15. A. **true** '2' is converted to number 2  
+    B. **false** This is a comparison between two strings. Since "2">"1", this experession returns false  
+    C. **true** '2' is converted to number 2  
+    D. **false** because 2 and '2' have different types  
+    E. **false** true is converted to number as 1  
+    D. **true** Boolean(2) after the convertion is true  
 
 16. === checks the equality without type conversion while == converts values to numbers
 
